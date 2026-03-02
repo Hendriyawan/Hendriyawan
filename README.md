@@ -59,7 +59,7 @@ Building scalable, production-grade mobile applications with real product impact
 ## 🌍 Connect
 
 - Portfolio: https://hendev.netlify.app  
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN  
+- LinkedIn: https://www.linkedin.com/in/hendriyawan/
 - GitHub: https://github.com/Hendriyawan  
 
 ---
