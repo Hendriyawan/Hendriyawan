@@ -1,69 +1,45 @@
-<h2 align="center">
-Hi, I'm Hendriyawan 👋  
-Mobile Engineer | Flutter & Android Specialist
-</h2>
+<h1 align="center">Hi, I'm Hendriyawan 👋</h1>
+<p align="center">
+  <strong>Senior Mobile Engineer | Flutter & Android Specialist</strong><br>
+  Building scalable, production-grade applications with a focus on AI & Performance.
+</p>
 
 <p align="center">
-Building scalable, production-grade mobile applications with real product impact.
+  <a href="https://hendev.netlify.app">🌐 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/hendriyawan/">💼 LinkedIn</a> • 
+  <a href="https://github.com/Hendriyawan">💻 GitHub</a>
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 5+ years in Mobile Development  
-- 4+ years building cross-platform apps with Flutter  
-- Strong foundation in Native Android (Kotlin & Java)  
-- Experienced in Clean Architecture, CI/CD, and performance optimization  
-- Exploring AI-powered mobile applications & LLM integration  
-- Open to Remote & International Opportunities  
+### 🚀 At a Glance
+- **5+ Years Experience** in high-impact mobile development.
+- **Expertise:** Flutter (4+ years) & Native Android (Kotlin/Java).
+- **Specialization:** Clean Architecture, Performance Tuning, & CI/CD.
+- **Current Focus:** On-device AI implementation & LLM-integrated mobile flows.
 
 ---
 
-## 🛠 Core Tech Stack
+### 🛠 Tech Ecosystem
 
-**Mobile**
-- Flutter, Dart  
-- Android (Kotlin, Java)  
-- Jetpack, Jetpack Compose  
-
-**Architecture**
-- Clean Architecture  
-- MVVM  
-- BLoC  
-
-**Integration**
-- REST APIs  
-- Firebase (Auth, Firestore, FCM)  
-- Google Maps API  
-- Payment Gateway Integration  
-
-**DevOps & Tools**
-- Git & GitHub  
-- CI/CD Pipelines  
-- Android Studio & Xcode  
-- Postman  
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Mobile** | Flutter, Dart, Kotlin, Java, Jetpack Compose |
+| **Architecture** | Clean Architecture, MVVM, BLoC, Provider |
+| **Cloud & Data** | Firebase (Full Suite), REST APIs, SQL/NoSQL |
+| **Integration** | Payment Gateways, Google Maps SDK, TensorFlow Lite |
+| **DevOps** | Git, GitHub Actions, CI/CD Pipelines |
 
 ---
 
-## 📌 What I Deliver
-
-- High-performance, production-ready mobile apps  
-- Maintainable, scalable codebases  
-- UX improvements based on real user behavior  
-- Business-driven technical solutions  
-- AI-enhanced mobile experiences  
-
----
-
-## 🌍 Connect
-
-- Portfolio: https://hendev.netlify.app  
-- LinkedIn: https://www.linkedin.com/in/hendriyawan/
-- GitHub: https://github.com/Hendriyawan  
+### 📌 Impact & Delivery
+- **Scalable Code:** Maintainable architectures that grow with your business.
+- **AI-Enhanced UX:** Bridging on-device AI models with seamless user interfaces.
+- **Performance First:** Low-latency, memory-efficient, and smooth 60fps experiences.
+- **Product Mindset:** Translating complex business requirements into robust technical solutions.
 
 ---
 
 <p align="center">
-<strong>I don’t just build features — I build products that scale.</strong>
+  <em>"I don’t just build features — I build products that scale. - don't stop learning~"</em>
 </p>
