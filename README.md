@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Hendriyawan 👋</h1>
 <p align="center">
-  <strong>Senior Mobile Engineer | Flutter & Android Specialist</strong><br>
+  <strong>Mobile Engineer | Flutter & Android Specialist</strong><br>
   Building scalable, production-grade applications with a focus on AI & Performance.
 </p>
 
