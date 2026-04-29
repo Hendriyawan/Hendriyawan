@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hendriyawan 👋</h1>
 <p align="center">
-  <strong>Mobile Engineer | Flutter & Android Specialist</strong><br>
-  Building scalable, production-grade applications with a focus on AI & Performance.
+  <strong>Senior Mobile Engineer | Flutter & Android Specialist</strong><br>
+  Building scalable, production-grade mobile applications with a product-driven mindset.
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ### 🚀 At a Glance
 - **5+ Years Experience** in high-impact mobile development.
-- **Expertise:** Flutter (4+ years) & Native Android (Kotlin/Java).
-- **Specialization:** Clean Architecture, Performance Tuning, & CI/CD.
-- **Current Focus:** On-device AI implementation & LLM-integrated mobile flows.
+- **Expertise:** Flutter & Native Android (Kotlin/Java).
+- **Specialization:** Clean Architecture, MVVM/BLoC, & CI/CD Pipelines.
+- **Currently Exploring:** Deepening my knowledge in on-device AI implementation & LLM integration.
 
 ---
 
@@ -33,13 +33,13 @@
 ---
 
 ### 📌 Impact & Delivery
-- **Scalable Code:** Maintainable architectures that grow with your business.
-- **AI-Enhanced UX:** Bridging on-device AI models with seamless user interfaces.
-- **Performance First:** Low-latency, memory-efficient, and smooth 60fps experiences.
+- **Scalable Code:** Building maintainable architectures that adapt to business growth.
+- **Intuitive UI/UX:** Crafting seamless and responsive user experiences across platforms.
+- **AI Integration (Ongoing):** Bridging AI models with mobile flows to create smarter features.
 - **Product Mindset:** Translating complex business requirements into robust technical solutions.
 
 ---
 
 <p align="center">
-  <em>"I don’t just build features — I build products that scale. - don't stop learning~"</em>
+  <em>"I don’t just build features — I build products that scale. Never stop learning~"</em>
 </p>
